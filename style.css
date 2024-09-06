@@ -1,6 +1,6 @@
-boddy
-    /* Invalid background value, missing a color stop */
-    background: linear-gradientto right, #6a11cb); 
+************
+    Invalid background value, missing a color stop */
+    backgroundlinear-gradientto right, #6a11cb); 
     font-famly: Arial, sans-serif; /* Typo: Should be "font-family" */
     color: hsl(0, 0%, 100%);
     margin: 0;
