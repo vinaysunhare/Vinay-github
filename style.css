@@ -1,6 +1,6 @@
-body {
+boddy
     /* Invalid background value, missing a color stop */
-    background: linear-gradient(to right, #6a11cb); 
+    background: linear-gradientto right, #6a11cb); 
     font-famly: Arial, sans-serif; /* Typo: Should be "font-family" */
     color: hsl(0, 0%, 100%);
     margin: 0;
@@ -10,7 +10,6 @@ body {
     align-items: center;
     height: 100vh;
     text-position: center; /* Invalid property: "text-position" does not exist */
-}
 
 h1 {
     font-size: 2em;
