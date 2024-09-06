@@ -1,8 +1,8 @@
-/* stylee.css *
+/*stylee.css*
 dody
  Set a gradient background from purple to teal 
-    background: linear-gradient(to right, #086fe4, #086fe4, #086fe4, #086fe4);
-    font-family: Arial, sans-serif;
+    backgroundlinear-gradient(to right, #086fe4, #086fe4, #086fe4, #086fe4);
+    font-familyArial, sans-serif;
     /* Sets a clean, modern font for the body text 
     color: hsl(0, 0%, 100%);
     /* Sets the text color to white for better contrast 
